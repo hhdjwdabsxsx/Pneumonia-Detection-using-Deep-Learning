@@ -55,9 +55,6 @@ pip install tensorflow keras matplotlib numpy pandas scikit-learn
 ## 🤝 Contributing
 Contributions are welcome! Please fork the repository and submit a pull request for improvements or bug fixes.
 
-## 📄 License
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
 ## 🙌 Acknowledgements
 - **Dataset:** Chest X-ray data sourced from publicly available medical repositories.
 - **Frameworks:** TensorFlow and Keras for building and training the model.
